@@ -70,3 +70,8 @@ set clipboard=unnamedplus
 
 " stuff
 syntax on
+
+"
+" xmodmap -e "keycode 117 = Delete"
+" echo keycode 117 = Delete >> ~/.xmodmap
+" xmodmap ~/.xmodmap
